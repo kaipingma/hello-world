@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+Hi,
+
+This is Kyle.
+
+Bye,
+Kyle
